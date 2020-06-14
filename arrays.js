@@ -9,4 +9,4 @@ function destructivelyAddElementToBeginningOfArray(chocolateBars, butterfinger){
   return chocolateBars
 }
 
-function addElementToTheEnd
+function addElementToTheEndOfArray()
