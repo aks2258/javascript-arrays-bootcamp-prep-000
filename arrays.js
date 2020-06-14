@@ -10,5 +10,5 @@ function destructivelyAddElementToBeginningOfArray(chocolateBars, butterfinger){
 }
 
 function addElementToTheEndOfArray(chocolateBars, butterfinger){
-  return
+  return [...shift]
 }
